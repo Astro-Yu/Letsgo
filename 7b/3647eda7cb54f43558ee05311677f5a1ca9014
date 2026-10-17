@@ -1,0 +1,14 @@
+internal/repository/memory_user_repo.go
+  h_09d9451df330ee 1-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7b3647eda7cb54f43558ee05311677f5a1ca9014",
+  "prompts": {},
+  "humans": {
+    "h_09d9451df330ee": {
+      "author": "yush <yush2202@gmail.com>"
+    }
+  }
+}
