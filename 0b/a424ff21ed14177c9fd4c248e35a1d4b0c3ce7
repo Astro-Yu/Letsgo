@@ -1,0 +1,14 @@
+cmd/api/main.go
+  h_09d9451df330ee 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0ba424ff21ed14177c9fd4c248e35a1d4b0c3ce7",
+  "prompts": {},
+  "humans": {
+    "h_09d9451df330ee": {
+      "author": "yush <yush2202@gmail.com>"
+    }
+  }
+}
