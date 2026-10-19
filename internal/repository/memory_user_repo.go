@@ -56,3 +56,5 @@ func (r *InMemoryUserRepository) FindById(ctx context.Context, id string) (*doma
 	// 유저가 있다면 유저 리턴, 에러는 없음
 	return user, nil
 }
+
+// memory_user_repo는 user_usercase에서 정의한 userRepository의 구현체이고, 명시적 implement 없이 내부 메서드 종류가 같다면 구현체 취급한다.
